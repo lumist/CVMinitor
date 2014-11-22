@@ -1,2 +1,2 @@
-GenerateQRcode
+CVMinitor
 ==============
